@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #90EE90; /* verde claro */
+    color: black; /* Preto para melhor contraste com fundo verde claro */
+}
+
+header {
+    text-align: center;
+    padding: 60px 20px; /* Aumentado para um visual mais espaçoso */
+    background: linear-gradient(to bottom right, #004d00, #006400); /* Gradiente verde escuro */
+    color: white;
+    border-bottom: 4px solid #003d00; /* Linha na base do cabeçalho */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Sombra para destaque */
+}
+header h1 {
+    font-size: 4em; /* Tamanho aumentado para maior impacto */
+    margin: 0;
+    font-weight: bold; /* Negrito para maior destaque */
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.6); /* Sombra para melhor legibilidade */
+}
+
+header p {
+    font-size: 1.8em; /* Tamanho do subtítulo aumentado */
+    margin: 10px 0 0;
+    font-weight: lighter; /* Peso da fonte mais leve */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); /* Sombra para melhorar contraste */
+}
+
+main {
+    padding: 20px;
+}
+
+.info {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #006400; /* verde escuro */
+    color: white; /* Garantir que o texto fique visível */
+    border-radius: 10px;
+}
+height: auto;
+margin-bottom: 10px;
+border-radius: 10px;
+}
+
+.info p {
+font-size: 1.2em;
+line-height: 1.5;
+}
+
+footer {
+text-align: center;
+padding: 20px;
+background-color: #006400; /* verde escuro */
+color: white;
+}
+
+footer h2 {
+font-size: 2em;
+margin-bottom: 10px;
+}
+
+footer p {
+font-size: 1.2em;
+}
+
+footer a {
+color: #000000; /* preto */
+text-decoration: none;
+}
